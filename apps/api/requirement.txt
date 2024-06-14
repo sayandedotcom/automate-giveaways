@@ -1,8 +1,9 @@
-Package           Version
------------------ -------
-asgiref           3.8.1
-Django            5.0.6
-pip               22.0.2
-setuptools        59.6.0
-sqlparse          0.5.0
-typing_extensions 4.12.2
+Package             Version
+------------------- -------
+asgiref             3.8.1
+Django              5.0.6
+django-cors-headers 4.3.1
+pip                 22.0.2
+setuptools          59.6.0
+sqlparse            0.5.0
+typing_extensions   4.12.2
