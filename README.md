@@ -4,6 +4,7 @@ Automate your giveaways now !
 
 ## Tech Stack
 
+- Turborepo
 - TypeScript
 - NextJS
 - TipTap editor
