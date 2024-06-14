@@ -1,6 +1,19 @@
-# Turborepo starter
+# Automate Giveaways
 
-This is an official starter Turborepo.
+Automate your giveaways now !
+
+## Tech Stack
+
+- TypeScript
+- NextJS
+- TipTap editor
+- Django backend
+- Celery task queue
+- Postgres + Timescale database
+- Redis cache layer
+- Langchain.js with OpenAI API
+
+Run the following command:
 
 ## Using this example
 
