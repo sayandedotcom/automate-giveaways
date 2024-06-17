@@ -13,6 +13,8 @@ Automate your giveaways now !
 - Postgres + Timescale database
 - Redis cache layer
 - Langchain.js with OpenAI API
+- Stripe ( Embedded ) with Location-Based Dynamic Pricing
+- dayjs
 
 Run the following command:
 
