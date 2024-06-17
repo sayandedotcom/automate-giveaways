@@ -1,7 +1,7 @@
-from django.http import HttpResponse
+from django.http import HttpResponse, JsonResponse
 
 def homepage(request):
-  return HttpResponse("Hello World")
+  return JsonResponse("👋", safe=False)
 
 def aboutpage(request):
   return HttpResponse("Hello About")
